@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SVA1-xo6a.aternos.me:37112",
+    "ip": "SVA1-xo6a.aternos.me",
     "port": 37112,
     "version": "",
     "try-creative": false
